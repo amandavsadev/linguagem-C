@@ -1,2 +1,4 @@
 # Linguagem C
-Códigos na linguagem C realizados no curso técnico de Desenvolvimento de Sistemas - Módulo I
+
+👋 Hello World! Estou aprendendo linguagem C no curso técnico de Desenvolvimento de Sistemas - Módulo I.
+Acima você encontra meus códigos realizados em sala.👆
