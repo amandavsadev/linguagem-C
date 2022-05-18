@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
-// Você pode encontrar o enunciado da questão em: https://thehuxley.com/problem/43?locale=pt_BR
+// VocÃª pode encontrar o enunciado da questÃ£o em: https://thehuxley.com/problem/43?locale=pt_BR
 
 int main()
 {
@@ -8,7 +8,7 @@ int main()
 	
 	int num1, num2, num3, menor;
 	
-    printf("Digite três números inteiros: \n");
+    printf("Digite trÃªs nÃºmeros inteiros: \n");
     scanf("%d%d%d",&num1,&num2,&num3);
 
     menor = num1;
