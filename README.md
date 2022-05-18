@@ -11,8 +11,13 @@ Abaixo você encontra meus códigos realizados em sala (do mais recente pro mais
 <p> Exercícios do The Huxley: </p>
 
 <ul>
-  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/AntecessorSucessor.c" target="_blank"> Antecessor e Sucessor; </a></li>
+  
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/Salario.c" target="_blank"> Salário; </a></li>
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/Diferenca.c" target="_blank"> Diferença; </a></li>
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/Media2.c" target="_blank"> Média 2; </a></li>
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/Media1.c" target="_blank"> Média 1; </a></li>
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/AreaCirculo.c" target="_blank"> Área do Círculo; </a></li>
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/ExtremamenteBasico.c" target="_blank"> Extremamente Básico; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/ComaBem.c" target="_blank"> Coma Bem; </a></li>
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/AntecessorSucessor.c" target="_blank"> Antecessor e Sucessor; </a></li> 
 </ul>
-
-
