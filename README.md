@@ -11,7 +11,8 @@ Abaixo você encontra meus códigos realizados em sala (do mais recente pro mais
 <p> Exercícios do The Huxley: </p>
 
 <ul>
-  
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/LoopImpares.c" target="_blank"> Loop de Ímpares; </a></li>
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/LoopInteiros.c" target="_blank"> Loop de Inteiros; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/MediaAlunos.c" target="_blank"> Média dos Alunos; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/MenorTres.c" target="_blank"> Menor de Três; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/IgualDiferente.c" target="_blank"> Igual ou Diferente; </a></li>
