@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Você pode encontrar o enunciado da questão em: https://thehuxley.com/problem/20?locale=pt_BR
+// VocÃª pode encontrar o enunciado da questÃ£o em: https://thehuxley.com/problem/20?locale=pt_BR
 
 int main(void) 
 {
