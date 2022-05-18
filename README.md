@@ -26,4 +26,4 @@
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/AntecessorSucessor.c" target="_blank"> Antecessor e Sucessor. </a> </li> 
 </ul>
 
-<p> Ps.: Todos os códigos foram feitos na IDE Dev-C++ </p>
+<p> Ps.: Todos os códigos foram feitos na IDE Dev-C++ </p>.
