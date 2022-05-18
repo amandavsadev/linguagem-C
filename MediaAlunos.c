@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
-// Você pode encontrar o enunciado da questão em: https://thehuxley.com/problem/18?locale=pt_BR
+// VocÃª pode encontrar o enunciado da questÃ£o em: https://thehuxley.com/problem/18?locale=pt_BR
 
 int main()
 {
@@ -31,7 +31,7 @@ int main()
    
    else
    {
-  		printf("Prova final."); 
+  	printf("Prova final."); 
    }
    
   return 0;
