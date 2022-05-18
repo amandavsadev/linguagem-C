@@ -19,5 +19,5 @@ Abaixo você encontra meus códigos realizados em sala (do mais recente pro mais
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/AreaCirculo.c" target="_blank"> Área do Círculo; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/ExtremamenteBasico.c" target="_blank"> Extremamente Básico; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/ComaBem.c" target="_blank"> Coma Bem; </a></li>
-  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/AntecessorSucessor.c" target="_blank"> Antecessor e Sucessor; </a></li> 
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/AntecessorSucessor.c" target="_blank"> Antecessor e Sucessor. </a></li> 
 </ul>
