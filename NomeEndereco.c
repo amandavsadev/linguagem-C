@@ -4,7 +4,7 @@
 int main (void)
 {
 	setlocale(LC_ALL,"Portuguese"); //Permite imprimir acentos e cedilha.
-//Faça um programa que solicita o usuario digitar o nome e sobrenome
+//FaÃ§a um programa que solicita o usuario digitar o nome e sobrenome
 
   char nome[30], sobrenome[30];
   char rua[30], numero[30], bairro[30], cidade[30];
@@ -22,7 +22,7 @@ int main (void)
   fflush(stdin);
   gets(rua);
 
-  printf("\nDigite o número: ");
+  printf("\nDigite o nÃºmero: ");
   fflush(stdin);
   gets(numero);
   
@@ -37,12 +37,8 @@ int main (void)
 //Finalmente o programa concatena o nome e sobrenome e mostra na tela.
   printf("\nNome: %s %s", nome, sobrenome);
   
-//Depois o programa concatena os dados do endereco e imprime o endereço de uma só vez.
-  printf("\nEndereço: Rua %s, n° %s, %s - %s", rua, numero, bairro, cidade);
+//Depois o programa concatena os dados do endereco e imprime o endereÃ§o de uma sÃ³ vez.
+  printf("\nEndereÃ§o: Rua %s, nÂ° %s, %s - %s", rua, numero, bairro, cidade);
 
  getchar(); 
 }
-
-
-
-
