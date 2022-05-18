@@ -12,6 +12,9 @@ Abaixo você encontra meus códigos realizados em sala (do mais recente pro mais
 
 <ul>
   
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/MediaAlunos.c" target="_blank"> Média dos Alunos; </a></li>
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/MenorTres.c" target="_blank"> Menor de Três; </a></li>
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/IgualDiferente.c" target="_blank"> Igual ou Diferente; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/Salario.c" target="_blank"> Salário; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/Diferenca.c" target="_blank"> Diferença; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/Media2.c" target="_blank"> Média 2; </a></li>
