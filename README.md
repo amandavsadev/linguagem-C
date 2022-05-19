@@ -1,10 +1,8 @@
 # Linguagem C
 
-
-<img align="right" alt="Amanda-pic" height="160" style="border-radius:50px;" src="https://i.picasion.com/pic92/6778bfd852fd0552c3e2835ab981c83d.gif">
 <p>👋 Hello World! Estou aprendendo linguagem C no curso técnico de Desenvolvimento de Sistemas. <br>
- Abaixo você encontra meus códigos realizados em sala (do mais recente pro mais antigo).   </p> 
-
+ Abaixo você encontra meus códigos realizados em sala (do mais recente pro mais antigo).</p> 
+ 
 <ul>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/NomeEndereco.c" target="_blank"> Nome e Endereço; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/CalculadoraBasica.c" target="_blank"> Calculadora Básica; </a></li>
