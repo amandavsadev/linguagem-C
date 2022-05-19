@@ -1,4 +1,4 @@
-#   <img align="center" alt="Amanda-C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />Linguagem C
+#   <img align="top" alt="Amanda-C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />Linguagem C
 
 <p>👋 Hello World! Estou aprendendo linguagem C no curso técnico de Desenvolvimento de Sistemas. <br>
  Abaixo você encontra meus códigos realizados em sala (do mais recente pro mais antigo).</p> 
