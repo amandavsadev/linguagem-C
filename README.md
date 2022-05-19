@@ -19,7 +19,7 @@
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/Salario.c" target="_blank"> Salário; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/Diferenca.c" target="_blank"> Diferença; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/Media2.c" target="_blank"> Média 2; </a></li>
-  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/Media1.c" target="_blank"> Média 1; </a> <img align="right" alt="Amanda-pic" height="160" style="border-radius:50px;" src="https://i.picasion.com/pic92/6778bfd852fd0552c3e2835ab981c83d.gif"> </li>
+  <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/Media1.c" target="_blank"> Média 1; </a> </li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/AreaCirculo.c" target="_blank"> Área do Círculo; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/ExtremamenteBasico.c" target="_blank"> Extremamente Básico; </a></li>
   <li><a href="https://github.com/amandavsadev/Linguagem-C/blob/main/ComaBem.c" target="_blank"> Coma Bem; </a></li>
